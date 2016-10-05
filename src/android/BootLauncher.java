@@ -1,4 +1,4 @@
-package uk.co.ilee.bootlauncher;
+package ru.hamster.intexcom;
 
 import android.content.Intent;
 import android.net.Uri;
